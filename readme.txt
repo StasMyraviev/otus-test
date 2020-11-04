@@ -1,1 +1,2 @@
-please read it before install
+please read it before install//develop
+
