@@ -1,0 +1,42 @@
+[33mcommit a5881ec68c7e2328494a67361d2efd6342f95a51[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+Author: Stas <stasmuravyov@gmail.com>
+Date:   Wed Nov 4 16:34:26 2020 +0300
+
+    banan
+
+[33mcommit 632b480f2e8e95254ab72b419df27153ad780831[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Stas <stasmuravyov@gmail.com>
+Date:   Wed Nov 4 16:32:57 2020 +0300
+
+    commit1
+
+[33mcommit 17d00fd65a3e163628cfe30cccc2817df7b82032[m[33m ([m[1;32mdevelop2[m[33m)[m
+Merge: 3f08c10 09f13a0
+Author: Stas <stasmuravyov@gmail.com>
+Date:   Wed Nov 4 16:31:21 2020 +0300
+
+    new
+
+[33mcommit 09f13a009714ebf6b52034f83efe100839288a19[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Stas <stasmuravyov@gmail.com>
+Date:   Wed Nov 4 16:28:37 2020 +0300
+
+    update file
+
+[33mcommit 3f08c1081bc151cd066f2bc88bb760d9c533af6f[m
+Author: Stas <stasmuravyov@gmail.com>
+Date:   Wed Nov 4 16:25:44 2020 +0300
+
+    second
+
+[33mcommit 2b3589160b0ef60ee41f5134ce6c4ad4ae3e60f7[m
+Author: Stas <stasmuravyov@gmail.com>
+Date:   Wed Nov 4 16:09:25 2020 +0300
+
+    update txt
+
+[33mcommit 073ec8596ec8d3f3d5905aea843419fd7e971775[m
+Author: Stas <stasmuravyov@gmail.com>
+Date:   Wed Nov 4 15:41:57 2020 +0300
+
+    Initial commit
